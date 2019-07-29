@@ -1,2 +1,2 @@
 # Jetpack-Joyride
-1D game in openGL3 
+2D game in openGL3 
